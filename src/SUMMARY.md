@@ -1,5 +1,7 @@
 # Summary
 
+[Funciona mi github pages?](./prueba.md)
+
 [Inicio Rápido 🚀](README.md)
 
 - [Preguntas Frecuentes](./faq.md)
