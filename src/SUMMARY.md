@@ -1,9 +1,8 @@
 # Summary
 
-[Funciona mi github pages?](./prueba.md)
-
 [Inicio Rápido 🚀](README.md)
 
+- [Funciona mi github pages?](./prueba.md)
 - [Preguntas Frecuentes](./faq.md)
 	- [¿Qué necesito para usar Mostro?](./need-it.md)
 	- [¿Debo registrarme o hacer KYC?](./no-kyc.md)
